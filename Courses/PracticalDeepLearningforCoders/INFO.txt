@@ -1,4 +1,0 @@
-Curso de deep learning
-
-url do curso: 
-https://course.fast.ai/
