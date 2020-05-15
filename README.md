@@ -9,4 +9,5 @@
 - Machine Learning
 - Numpy
 - TDD - Python
+  - Desafio do submarino
 - Matplotlib
