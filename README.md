@@ -8,3 +8,4 @@
 - TDD - Python
   - Desafio do submarino
 - Matplotlib
+- GraphQL
