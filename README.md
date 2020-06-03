@@ -1,8 +1,5 @@
 ## Study Notes
 
-#### Courses
-- Practical Deep Learning For Coders
-
 #### Jupyters, notes and tutorials
 - Deep Clustering 
 - Graphs
