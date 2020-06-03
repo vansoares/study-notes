@@ -1,0 +1,40 @@
+{
+    "customers":[
+        {
+            "id":"1",
+            "name":"Vanessa Soares",
+            "email":"vanessa@gmail.com",
+            "age":25
+        },
+        {
+            "id":"2",
+            "name":"Eduardo Soares",
+            "email":"edu@gmail.com",
+            "age":25
+        },
+        {
+            "id":"3",
+            "name":"Marta Soares",
+            "email":"ma@gmail.com",
+            "age":25
+        },
+        {
+            "id":"4",
+            "name":"Thomás Soares",
+            "email":"tm@gmail.com",
+            "age":25
+        },
+        {
+            "id":"5",
+            "name":"Elza Soares",
+            "email":"elza@gmail.com",
+            "age":25
+        },
+        {
+            "id":"6",
+            "name":"Nilson Alves",
+            "email":"nil@gmail.com",
+            "age":25
+        }
+    ]
+}
