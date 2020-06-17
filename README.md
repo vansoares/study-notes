@@ -7,5 +7,7 @@
 - Numpy
 - TDD - Python
   - Desafio do submarino
+- Django
+  - Test-Driven Development in Django
 - Matplotlib
 - GraphQL
