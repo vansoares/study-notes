@@ -11,3 +11,5 @@
   - Test-Driven Development in Django
 - Matplotlib
 - GraphQL
+- Design_Patterns
+  - go
